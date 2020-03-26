@@ -1,0 +1,10 @@
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\bin\Debug\VigenerCihperWF.exe
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\bin\Debug\VigenerCihperWF.pdb
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Debug\VigenerCihperWF.csprojResolveAssemblyReference.cache
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Debug\VigenerCihperWF.Form1.resources
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Debug\VigenerCihperWF.Properties.Resources.resources
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Debug\VigenerCihperWF.csproj.GenerateResource.Cache
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Debug\VigenerCihperWF.csproj.CoreCompileInputs.cache
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Debug\VigenerCihperWF.exe
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Debug\VigenerCihperWF.pdb
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Debug\VigenerCihperWF.VigenerTable.resources

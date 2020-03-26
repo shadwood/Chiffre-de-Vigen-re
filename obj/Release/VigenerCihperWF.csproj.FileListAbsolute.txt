@@ -1,0 +1,22 @@
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\bin\Release\VigenerCihperWF.exe
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\bin\Release\VigenerCihperWF.pdb
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.Properties.Resources.resources
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.VigenerTable.resources
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.csproj.GenerateResource.Cache
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.csproj.CoreCompileInputs.cache
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.exe
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.pdb
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.csprojResolveAssemblyReference.cache
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.MainForm.resources
+C:\Users\Мария\OneDrive\Проекты_VS17\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.MaskForm.resources
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\bin\Release\VigenerCihperWF.exe
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\bin\Release\VigenerCihperWF.pdb
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.csprojResolveAssemblyReference.cache
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.MainForm.resources
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.MaskForm.resources
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.Properties.Resources.resources
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.VigenerTable.resources
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.csproj.GenerateResource.Cache
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.csproj.CoreCompileInputs.cache
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.exe
+P:\Облачные диски\Личное\3. Проекты_VS\Project\VigenerCihperWF\VigenerCihperWF\obj\Release\VigenerCihperWF.pdb
